@@ -1,0 +1,6 @@
+5 Tables obligatoires : 
+USER
+PUZZLE
+CATEGORIE
+COMMANDE
+COMMANDE_PUZZLE
